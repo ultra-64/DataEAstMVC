@@ -1,0 +1,9 @@
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\bin\Debug\DataEastDB.dacpac
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\bin\Debug\DataEastDB.dll
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\bin\Debug\DataEastDB.pdb
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\DataEastDB.dll
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\DataEastDB.pdb
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\DataEastDB.sqlprojAssemblyReference.cache
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\Model.xml
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\refactor.xml
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\postdeploy.sql
+C:\Users\lexit\source\repos\ASP.NET.MVC.DataEastDatabase\DataEastDB\obj\Debug\predeploy.sql

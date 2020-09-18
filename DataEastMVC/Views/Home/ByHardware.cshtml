@@ -1,0 +1,76 @@
+﻿@model IEnumerable<DataEastMVC.Models.ArcadeList>
+
+@{ViewBag.Title = "Arcade List By Hardware Type";}
+
+
+<h2>Arcade List By Hardware Type</h2>
+<div class="row">
+    <div class="col-md-10">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Hardware_Type)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Release_Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Genre)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.Hardware_Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Release_Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    <div class="col-md-2">
+        <img src="~/Content/Images/Hardware/DECOflyer2.jfif" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/System1.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/Dynamo.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/MVS_Motherboard.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/VS_System.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/model2a.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/Titan.png" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/fi.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/deco1.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/jamma.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/bad.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/wiz.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/deco3.jpg" class="img-responsive" />
+        <br />
+        <img src="~/Content/Images/Hardware/las.jpg" class="img-responsive" />
+        <br />
+    </div>
+</div>
